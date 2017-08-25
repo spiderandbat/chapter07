@@ -1,6 +1,6 @@
 [
     {
-        "module" : "dislister"
+        "module" : "dirlister"
     },
     {
         "module" : "environment"
